@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I enjoy learning constantly.**
 
-- https://portfolio-pedrotorres.netlify.app/
+- Portafolio: https://portfolio-pedrotorres.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
